@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1557791412 source:c:\users\alumno\downloads\arraypeliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funcionesAuxiliares.h"
+
+1557784945 c:\users\alumno\downloads\funcionesauxiliares.h
+
+1557785916 source:c:\users\alumno\downloads\funcionesauxiliares.c
+
+1557791274 source:c:\users\alumno\downloads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"funcionesAuxiliares.h"
+	"ArrayPeliculas.h"
+	"defines.h"
+
+1557791214 c:\users\alumno\downloads\arraypeliculas.h
+	"defines.h"
+
+1557785175 c:\users\alumno\downloads\defines.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
